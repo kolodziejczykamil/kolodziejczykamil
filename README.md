@@ -2,8 +2,6 @@
 
 Senior Frontend Developer with 8+ years in fintech, banking and logistics. I rebuild legacy frontends as fast, mobile-first React apps: architecture, folder structure and the standards a team builds on, from the first commit.
 
-Right now I'm rewriting a payment provider's merchant panel, used by several thousand merchants every day.
-
 **Stack:** React · TypeScript · Next.js · Redux Toolkit · React Query · XState · Zod · Jest · Cypress
 
 #### Side projects
